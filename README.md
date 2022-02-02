@@ -1,1 +1,1 @@
-# simple-calculator
+# simple-calculator / one of my first steps in javascript
